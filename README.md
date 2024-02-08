@@ -17,7 +17,7 @@ The excel sheet contains two sets of data namely; input data and master data. Th
 **Payment mode:** Means by which payment was made for a purchase.<br /> 
 **Discount:** Percentage reduction in sales in a specified period.<br />
 **Category:** The category or group to which a particular product belongs.<br />
-**UOM:** .<br />
+**UOM:** This is the unit of measure for each product.<br />
 **Buying Price:** The price at which a product was bought on a specified date.<br />
 **Selling Price:** The price at which a product was sold on a specified date.<br />
 
